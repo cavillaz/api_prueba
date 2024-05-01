@@ -29,6 +29,7 @@ use Config\Database;
 use Config\Feature;
 use ReflectionException;
 use stdClass;
+use App\Models\UserModel;
 
 /**
  * The Model class extends BaseModel and provides additional
